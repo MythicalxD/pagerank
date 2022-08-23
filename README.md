@@ -19,6 +19,7 @@ For the second condition, we need to consider each possible page i that links to
 
 This gives us the following definition for the PageRank for a page p.
 
+
 ![image](https://user-images.githubusercontent.com/111214577/186210435-3861a5d0-0f24-412c-9c41-b236722453b8.png)
 
 PageRank formula
